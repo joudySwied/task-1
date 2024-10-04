@@ -1,0 +1,39 @@
+body {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#logo {
+    width: 40px;
+    height: 40 px;
+    margin-bottom: 5px;
+}
+.icon {
+    width: 15px;
+    height: 15 px;
+    margin-right: 10px;
+    display: inline;
+}
+.icon2 {
+    width: 30px;
+    height: 30 px;
+    margin-right: 10px;
+    display: inline;
+}
+.ulw {
+    list-style: none; 
+    margin-left: -40px;
+    font-weight: 300;
+}
+#i {
+    display:inline ;
+}
+h3 {
+    display:inline ;
+}
+iframe {
+    margin: 30px;
+    border-radius: 150px;
+    width: 300px;
+    height: 300px;
+    margin-left: 80px;
+}
